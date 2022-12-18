@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.335" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/drawable/ic_add_new_bill.xml" value="0.1765" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/drawable/ic_calculate.xml" value="0.177" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.196" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/drawable/ic_menu_camera.xml" value="0.196" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.196" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.196" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/drawable/side_nav_bar.xml" value="0.196" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/activity_abrechnung.xml" value="0.2026315789473684" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/activity_add_bill.xml" value="0.4" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/activity_add_bill2.xml" value="0.2026315789473684" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/activity_admin_delete_user.xml" value="0.176" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/activity_admin_interface.xml" value="0.25" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/activity_admin_interface2.xml" value="0.25" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/activity_administrator_interface_long.xml" value="0.18802083333333333" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/activity_administrator_login.xml" value="0.152" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/activity_assign_project_to_student.xml" value="0.22" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/activity_assistent_interface.xml" value="0.33" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/activity_bachelor.xml" value="0.25" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/activity_camera.xml" value="0.14166666666666666" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/activity_change_data1_user.xml" value="0.18" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/activity_change_data_work.xml" value="0.2" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/activity_get_pictures.xml" value="0.20307017543859648" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/activity_interface.xml" value="0.1" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/activity_interface2.xml" value="0.2026315789473684" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/activity_interface_add.xml" value="0.3625" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/activity_interface_administrator.xml" value="0.36666666666666664" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/activity_interface_assistent.xml" value="0.13515625" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/activity_interface_student.xml" value="0.25" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/activity_interface_work_add.xml" value="0.176" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/activity_login2.xml" value="0.3625" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/activity_login_interface.xml" value="0.33" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/activity_main.xml" value="0.18802083333333333" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/activity_main2.xml" value="0.20307017543859648" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/activity_master.xml" value="0.18333333333333332" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/activity_professor_login.xml" value="0.25" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/activity_project.xml" value="0.25" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/activity_read_assigned_student.xml" value="0.18333333333333332" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/activity_read_student.xml" value="0.16" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/activity_rob_addbill.xml" value="0.2026315789473684" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/activity_rob_main.xml" value="0.2" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/activity_rob_nav_drawer.xml" value="0.2" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/activity_rob_toolbar.xml" value="0.176" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/activity_show_add_bill.xml" value="0.2" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/activity_show_data.xml" value="0.20307017543859648" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/activity_show_delete_bill.xml" value="0.20394736842105263" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/activity_show_main_data.xml" value="0.20307017543859648" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/activity_show_pictures.xml" value="0.14166666666666666" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/activity_showdata.xml" value="0.1412280701754386" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/activity_sign_up.xml" value="0.2" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/activity_start.xml" value="0.264" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/activity_start2.xml" value="0.2026315789473684" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/activity_student_interface.xml" value="0.36666666666666664" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/activity_test.xml" value="0.14078947368421052" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/activity_test_andi.xml" value="0.20307017543859648" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/add_Bill.xml" value="0.2" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/add_bill.xml" value="0.14078947368421052" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/addbill.xml" value="0.176" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/app_bar_administrator_interface_long.xml" value="0.18802083333333333" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/app_bar_assistent_interface.xml" value="0.33" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/change_bills.xml" value="0.20394736842105263" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/content_administrator_interface.xml" value="0.18802083333333333" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/content_administrator_interface_long.xml" value="0.17395833333333333" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/content_assistent_interface.xml" value="0.18802083333333333" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/content_interface_administrator.xml" value="0.36666666666666664" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/delete_user.xml" value="0.10921052631578948" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/fragment_gallery.xml" value="0.18802083333333333" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/fragment_home.xml" value="0.5" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/fragment_profile__tab.xml" value="0.36666666666666664" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/fragment_slideshow.xml" value="0.18802083333333333" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/fragment_start2.xml" value="0.19078947368421054" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/log_in.xml" value="0.10921052631578948" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/main.xml" value="0.2" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/main_interface.xml" value="0.2" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/nav_drawer.xml" value="0.2" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/nav_header_assistent_interface.xml" value="0.33" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/show.xml" value="0.20394736842105263" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/show_add_bill.xml" value="0.20350877192982456" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/show_pictures.xml" value="0.20394736842105263" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/showdata.xml" value="0.181140350877193" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/sign_up.xml" value="0.20394736842105263" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/start.xml" value="0.20307017543859648" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/test.xml" value="0.14078947368421052" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/toolbar.xml" value="0.8800000000000001" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/layout/toolbar2.xml" value="0.6" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/menu/a_d_m_i_n_i_s_t_r_a_t_o_r__i_n_t_e_r_f_a_c_e__l_o_n_g.xml" value="0.18802083333333333" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/menu/a_s_s_i_s_t_e_n_t__i_n_t_e_r_f_a_c_e.xml" value="0.18802083333333333" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/menu/activity_administrator_interface_drawer.xml" value="0.18802083333333333" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/menu/activity_main_drawer.xml" value="0.75" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/menu/i_n_t_e_r_f_a_c_e__a_d_m_i_n_i_s_t_r_a_t_o_r.xml" value="0.36666666666666664" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.196" />
+        <entry key="..\:/Studios Programme/Uebung 2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.151" />
+        <entry key="..\:/Users/Robert/OneDrive/fh/FH_3.Semester/mobilplat/androidstudio/billing/app/src/main/res/drawable/ic_add_new_bill.xml" value="0.351" />
+        <entry key="..\:/Users/Robert/OneDrive/fh/FH_3.Semester/mobilplat/androidstudio/billing/app/src/main/res/drawable/ic_baseline_business_center_24.xml" value="0.462" />
+        <entry key="..\:/Users/Robert/OneDrive/fh/FH_3.Semester/mobilplat/androidstudio/billing/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.462" />
+        <entry key="..\:/Users/Robert/OneDrive/fh/FH_3.Semester/mobilplat/androidstudio/billing/app/src/main/res/drawable/ic_calculate.xml" value="0.351" />
+        <entry key="..\:/Users/Robert/OneDrive/fh/FH_3.Semester/mobilplat/androidstudio/billing/app/src/main/res/drawable/ic_home.xml" value="0.351" />
+        <entry key="..\:/Users/Robert/OneDrive/fh/FH_3.Semester/mobilplat/androidstudio/billing/app/src/main/res/drawable/ic_launcher_background.xml" value="0.443" />
+        <entry key="..\:/Users/Robert/OneDrive/fh/FH_3.Semester/mobilplat/androidstudio/billing/app/src/main/res/drawable/ic_logout.xml" value="0.351" />
+        <entry key="..\:/Users/Robert/OneDrive/fh/FH_3.Semester/mobilplat/androidstudio/billing/app/src/main/res/drawable/ic_menu.xml" value="0.4375" />
+        <entry key="..\:/Users/Robert/OneDrive/fh/FH_3.Semester/mobilplat/androidstudio/billing/app/src/main/res/layout/activity_add_bill.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Robert/OneDrive/fh/FH_3.Semester/mobilplat/androidstudio/billing/app/src/main/res/layout/activity_admin_delete_user.xml" value="0.5463541666666667" />
+        <entry key="..\:/Users/Robert/OneDrive/fh/FH_3.Semester/mobilplat/androidstudio/billing/app/src/main/res/layout/activity_admin_interface.xml" value="0.5463541666666667" />
+        <entry key="..\:/Users/Robert/OneDrive/fh/FH_3.Semester/mobilplat/androidstudio/billing/app/src/main/res/layout/activity_administrator_login.xml" value="0.5463541666666667" />
+        <entry key="..\:/Users/Robert/OneDrive/fh/FH_3.Semester/mobilplat/androidstudio/billing/app/src/main/res/layout/activity_assign_project_to_student.xml" value="0.5463541666666667" />
+        <entry key="..\:/Users/Robert/OneDrive/fh/FH_3.Semester/mobilplat/androidstudio/billing/app/src/main/res/layout/activity_bachelor.xml" value="0.5379487179487179" />
+        <entry key="..\:/Users/Robert/OneDrive/fh/FH_3.Semester/mobilplat/androidstudio/billing/app/src/main/res/layout/activity_camera.xml" value="0.5505208333333333" />
+        <entry key="..\:/Users/Robert/OneDrive/fh/FH_3.Semester/mobilplat/androidstudio/billing/app/src/main/res/layout/activity_change_data1_user.xml" value="0.5463541666666667" />
+        <entry key="..\:/Users/Robert/OneDrive/fh/FH_3.Semester/mobilplat/androidstudio/billing/app/src/main/res/layout/activity_change_data_work.xml" value="0.5463541666666667" />
+        <entry key="..\:/Users/Robert/OneDrive/fh/FH_3.Semester/mobilplat/androidstudio/billing/app/src/main/res/layout/activity_interface.xml" value="0.5463541666666667" />
+        <entry key="..\:/Users/Robert/OneDrive/fh/FH_3.Semester/mobilplat/androidstudio/billing/app/src/main/res/layout/activity_interface2.xml" value="0.5463541666666667" />
+        <entry key="..\:/Users/Robert/OneDrive/fh/FH_3.Semester/mobilplat/androidstudio/billing/app/src/main/res/layout/activity_interface_work_add.xml" value="0.5463541666666667" />
+        <entry key="..\:/Users/Robert/OneDrive/fh/FH_3.Semester/mobilplat/androidstudio/billing/app/src/main/res/layout/activity_rob_addbill.xml" value="0.4505208333333333" />
+        <entry key="..\:/Users/Robert/OneDrive/fh/FH_3.Semester/mobilplat/androidstudio/billing/app/src/main/res/layout/activity_rob_applications.xml" value="0.4505208333333333" />
+        <entry key="..\:/Users/Robert/OneDrive/fh/FH_3.Semester/mobilplat/androidstudio/billing/app/src/main/res/layout/activity_rob_main.xml" value="0.4505208333333333" />
+        <entry key="..\:/Users/Robert/OneDrive/fh/FH_3.Semester/mobilplat/androidstudio/billing/app/src/main/res/layout/activity_rob_nav_drawer.xml" value="0.4505208333333333" />
+        <entry key="..\:/Users/Robert/OneDrive/fh/FH_3.Semester/mobilplat/androidstudio/billing/app/src/main/res/layout/activity_rob_toolbar.xml" value="0.4505208333333333" />
+        <entry key="..\:/Users/Robert/OneDrive/fh/FH_3.Semester/mobilplat/androidstudio/billing/app/src/main/res/layout/activity_show_add_bill.xml" value="0.24270833333333333" />
+        <entry key="..\:/Users/Robert/OneDrive/fh/FH_3.Semester/mobilplat/androidstudio/billing/app/src/main/res/layout/activity_showdata.xml" value="0.5505208333333333" />
+        <entry key="..\:/Users/Robert/OneDrive/fh/FH_3.Semester/mobilplat/androidstudio/billing/app/src/main/res/layout/activity_sign_up.xml" value="0.5379487179487179" />
+        <entry key="..\:/Users/Robert/OneDrive/fh/FH_3.Semester/mobilplat/androidstudio/billing/app/src/main/res/layout/activity_start.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Robert/OneDrive/fh/FH_3.Semester/mobilplat/androidstudio/billing/app/src/main/res/layout/activity_test_andi.xml" value="0.5463541666666667" />
+        <entry key="..\:/Users/Robert/OneDrive/fh/FH_3.Semester/mobilplat/androidstudio/billing/app/src/main/res/layout/add_bill.xml" value="0.25462962962962965" />
+        <entry key="..\:/Users/Robert/OneDrive/fh/FH_3.Semester/mobilplat/androidstudio/billing/app/src/main/res/layout/header.xml" value="0.5453125" />
+        <entry key="..\:/Users/Robert/OneDrive/fh/FH_3.Semester/mobilplat/androidstudio/billing/app/src/main/res/layout/test.xml" value="0.48055555555555557" />
+        <entry key="..\:/Users/Robert/OneDrive/fh/FH_3.Semester/mobilplat/androidstudio/billing/app/src/main/res/layout/toolbar.xml" value="0.44947916666666665" />
+        <entry key="..\:/Users/austr/OneDrive/Dokumente/GitHub/Projekt/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.122" />
+        <entry key="..\:/Users/austr/OneDrive/Dokumente/GitHub/Projekt/app/src/main/res/drawable/ic_launcher_background.xml" value="0.224" />
+        <entry key="..\:/Users/austr/OneDrive/Dokumente/GitHub/Projekt/app/src/main/res/layout/activity_admin_delete_user.xml" value="0.12734375" />
+        <entry key="..\:/Users/austr/OneDrive/Dokumente/GitHub/Projekt/app/src/main/res/layout/activity_admin_interface.xml" value="0.2" />
+        <entry key="..\:/Users/austr/OneDrive/Dokumente/GitHub/Projekt/app/src/main/res/layout/activity_admin_interface2.xml" value="0.12734375" />
+        <entry key="..\:/Users/austr/OneDrive/Dokumente/GitHub/Projekt/app/src/main/res/layout/activity_administrator_login.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/austr/OneDrive/Dokumente/GitHub/Projekt/app/src/main/res/layout/activity_bachelor.xml" value="0.36" />
+        <entry key="..\:/Users/austr/OneDrive/Dokumente/GitHub/Projekt/app/src/main/res/layout/activity_bachelore_student.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/austr/OneDrive/Dokumente/GitHub/Projekt/app/src/main/res/layout/activity_interface_add.xml" value="0.2" />
+        <entry key="..\:/Users/austr/OneDrive/Dokumente/GitHub/Projekt/app/src/main/res/layout/activity_interface_administrator.xml" value="0.25104166666666666" />
+        <entry key="..\:/Users/austr/OneDrive/Dokumente/GitHub/Projekt/app/src/main/res/layout/activity_interface_assistent.xml" value="0.132" />
+        <entry key="..\:/Users/austr/OneDrive/Dokumente/GitHub/Projekt/app/src/main/res/layout/activity_interface_student.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/austr/OneDrive/Dokumente/GitHub/Projekt/app/src/main/res/layout/activity_interface_work_add.xml" value="0.132" />
+        <entry key="..\:/Users/austr/OneDrive/Dokumente/GitHub/Projekt/app/src/main/res/layout/activity_login.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/austr/OneDrive/Dokumente/GitHub/Projekt/app/src/main/res/layout/activity_login2.xml" value="0.25104166666666666" />
+        <entry key="..\:/Users/austr/OneDrive/Dokumente/GitHub/Projekt/app/src/main/res/layout/activity_login_interface.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/austr/OneDrive/Dokumente/GitHub/Projekt/app/src/main/res/layout/activity_main.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/austr/OneDrive/Dokumente/GitHub/Projekt/app/src/main/res/layout/activity_professor_login.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/austr/OneDrive/Dokumente/GitHub/Projekt/app/src/main/res/layout/activity_project.xml" value="0.11770833333333333" />
+        <entry key="..\:/Users/austr/OneDrive/Dokumente/GitHub/Projekt/app/src/main/res/layout/activity_read_assigned_student.xml" value="0.11770833333333333" />
+        <entry key="..\:/Users/austr/OneDrive/Dokumente/GitHub/Projekt/app/src/main/res/layout/activity_read_student.xml" value="0.12734375" />
+        <entry key="..\:/Users/austr/OneDrive/Dokumente/GitHub/Projekt/app/src/main/res/layout/activity_sign_up.xml" value="0.132" />
+        <entry key="..\:/Users/austr/OneDrive/Dokumente/GitHub/Projekt/app/src/main/res/layout/activity_student_bachelor.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/austr/OneDrive/Dokumente/GitHub/Projekt/app/src/main/res/layout/app_bar_interface_administrator.xml" value="0.25104166666666666" />
+        <entry key="..\:/Users/austr/OneDrive/Dokumente/GitHub/Projekt/app/src/main/res/layout/content_interface_administrator.xml" value="0.25104166666666666" />
+        <entry key="..\:/Users/austr/OneDrive/Dokumente/GitHub/Projekt/app/src/main/res/layout/content_main.xml" value="0.25104166666666666" />
+        <entry key="..\:/Users/austr/OneDrive/Dokumente/GitHub/Projekt/app/src/main/res/layout/fragment_home.xml" value="0.2546875" />
+        <entry key="..\:/Users/austr/OneDrive/Dokumente/GitHub/Projekt/app/src/main/res/layout/fragment_slideshow.xml" value="0.25104166666666666" />
+        <entry key="..\:/Users/austr/OneDrive/Dokumente/GitHub/Projekt/app/src/main/res/menu/activity_main_drawer.xml" value="0.2546875" />
+        <entry key="..\:/Users/austr/OneDrive/Dokumente/GitHub/Projekt/app/src/main/res/menu/i_n_t_e_r_f_a_c_e__a_d_m_i_n_i_s_t_r_a_t_o_r.xml" value="0.25104166666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

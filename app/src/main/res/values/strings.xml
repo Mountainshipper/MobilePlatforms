@@ -1,0 +1,27 @@
+<resources>
+
+    <string name="privat">Private</string>
+    <string name="business">Business</string>
+    <string name="total_pre_tax">Total pre-tax</string>
+    <string name="tax_deprication">Tax deprication</string>
+
+    <string name="app_name">billings</string>
+
+    <string name="navigatorText">ADD BILL</string>
+    <string name="AllBillsPng">Get BILL</string>
+
+    <string name="home">Home</string>
+    <string name="addnewbill">Add new bill</string>
+    <string name="removebill">Remove bill</string>
+    <string name="getallbillspng">Get bills (.png)</string>
+    <string name="calculate">Calculate</string>
+    <string name="logout">Logout</string>
+    <string name="clickMenu">activity_rob_toolbar</string>
+
+    <string name="drawerMenu">Billing Manager</string>
+
+    <string name="logout_alert_title">Logout</string>
+    <string name="logout_alert_message">Do you really want to log out?</string>
+    <string name="logout_alert_responsePositive">YES</string>
+    <string name="logout_alert_responseNegative">NO</string>
+</resources>
